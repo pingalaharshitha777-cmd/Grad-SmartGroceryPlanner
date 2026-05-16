@@ -61,15 +61,15 @@ Grad Grocery Planner transforms grocery shopping from a memory-driven activity i
 
 | Login | Dashboard | Smart List |
 |-------|-----------|------------|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![List](screenshots/list.png) |
+| ![Login](login.png) | ![Dashboard](dashboard.png) | ![List](list.png) |
 
 | Store Selection | Active Trip | Trip Summary |
 |----------------|-------------|--------------|
-| ![Stores](screenshots/stores.png) | ![Trip](screenshots/trip.png) | ![Summary](screenshots/summary.png) |
+| ![Stores](stores.png) | ![Trip](trip.png) | ![Summary](summary.png) |
 
 | Post-Trip Dashboard | Trips History |
 |--------------------|---------------|
-| ![Post Trip](screenshots/post_trip.png) | ![History](screenshots/history.png) |
+| ![Post Trip](post_trip.png) | ![History](history.png) |
 
 ---
 
