@@ -81,7 +81,7 @@ Grad Grocery Planner transforms grocery shopping from a memory-driven activity i
 - Auto-generation from inventory thresholds removes the planning burden entirely
 - Running total during shopping shifts budget awareness from checkout to cart
 - Store selection with aisle-based organization reduces in-store decision fatigue
-- Freemium model with $4.99/month subscription captures ~20% of the $234 annual value created per user
+
 
 **Why not just use Instacart?** Delivery premiums, service fees, and price markups conflict with graduate student budgets. Why not a manual list? High mental effort, frequent missed items. Grad Grocery Planner occupies the white space: low effort and low cost simultaneously.
 
