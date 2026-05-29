@@ -8,7 +8,7 @@ A grocery planning and budgeting web application designed for graduate students 
 
 ## Live Demo
 
-[View the app on Google AI Studio](https://ai.studio/apps/drive/1flJwQgq10aGziqJOk9CkIen1AujECWTF)
+https://grad-smartgroceryplanner.onrender.com/
 
 > Note: Requires a Google account to access. Screenshots of all screens are included below.
 
